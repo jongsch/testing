@@ -1,0 +1,851 @@
+ID,AGE_IN_YEARS,LEVEL_OF_EDUCATION,YEARS_WITH_CURRENT_EMPLOYER,YEARS_AT_CURRENT_ADDRESS
+1,41,High school degree,8,21
+2,41,Some college,18,6
+3,41,Some college,7,6
+4,41,High school degree,2,22
+5,33,Did not complete high school,14,8
+6,33,Did not complete high school,2,14
+7,49,Did not complete high school,11,5
+8,25,College degree,0,6
+9,41,Did not complete high school,21,2
+10,25,Did not complete high school,3,2
+11,25,Did not complete high school,5,5
+12,25,High school degree,6,2
+13,33,High school degree,10,13
+14,33,Did not complete high school,13,13
+15,41,Some college,13,13
+16,25,Did not complete high school,3,2
+17,25,Did not complete high school,0,2
+18,41,High school degree,6,0
+19,25,Did not complete high school,9,2
+20,49,High school degree,11,1
+21,41,Did not complete high school,7,22
+22,49,High school degree,2,13
+23,41,Some college,12,11
+24,41,Some college,17,12
+25,41,Did not complete high school,15,14
+26,41,High school degree,5,5
+27,25,Did not complete high school,4,0
+28,41,Some college,0,21
+29,25,College degree,0,2
+30,33,High school degree,12,8
+31,25,Did not complete high school,8,4
+32,25,Did not complete high school,8,1
+33,33,High school degree,4,9
+34,41,Did not complete high school,13,10
+35,33,Did not complete high school,14,2
+36,25,Did not complete high school,1,6
+37,41,Some college,2,0
+38,41,Did not complete high school,14,8
+39,33,Did not complete high school,8,7
+40,41,High school degree,22,17
+41,25,High school degree,4,6
+42,25,Did not complete high school,1,0
+43,41,Did not complete high school,7,11
+44,41,High school degree,19,2
+45,33,Did not complete high school,5,10
+46,41,Some college,16,22
+47,41,Did not complete high school,16,17
+48,33,Did not complete high school,12,11
+49,33,Did not complete high school,9,4
+50,41,College degree,14,3
+51,33,Did not complete high school,6,14
+52,33,High school degree,2,14
+53,33,High school degree,13,2
+54,33,College degree,9,10
+55,33,Did not complete high school,7,6
+56,41,High school degree,21,22
+57,33,Did not complete high school,13,3
+58,41,Did not complete high school,19,1
+59,33,Did not complete high school,7,0
+60,33,College degree,9,8
+61,25,High school degree,4,5
+62,25,Did not complete high school,9,4
+63,41,Did not complete high school,4,19
+64,41,Did not complete high school,16,22
+65,33,High school degree,10,4
+66,41,Did not complete high school,23,2
+67,49,High school degree,22,4
+68,33,High school degree,2,9
+69,25,College degree,0,1
+70,25,College degree,1,1
+71,33,Did not complete high school,2,10
+72,41,Did not complete high school,24,12
+73,41,College degree,9,13
+74,41,High school degree,4,14
+75,41,High school degree,7,17
+76,25,Did not complete high school,1,1
+77,25,Did not complete high school,6,6
+78,41,Did not complete high school,24,15
+79,41,High school degree,6,1
+80,41,Did not complete high school,1,16
+81,33,Did not complete high school,0,12
+82,33,Did not complete high school,12,12
+83,33,Did not complete high school,15,3
+84,25,High school degree,1,3
+85,46,Did not complete high school,6,19
+86,30,High school degree,4,8
+87,30,Did not complete high school,0,8
+88,22,Did not complete high school,1,3
+89,38,Did not complete high school,10,8
+90,46,Some college,22,4
+91,46,Post-undergraduate degree,15,0
+92,38,High school degree,4,13
+93,30,Some college,0,8
+94,30,High school degree,8,4
+95,46,Did not complete high school,1,15
+96,30,Some college,8,7
+97,46,Some college,3,13
+98,30,Did not complete high school,0,11
+99,22,Did not complete high school,4,3
+100,30,Did not complete high school,10,2
+101,22,Did not complete high school,1,0
+102,38,High school degree,13,0
+103,38,Did not complete high school,21,16
+104,38,Some college,12,14
+105,30,High school degree,12,9
+106,22,Some college,0,1
+107,38,Did not complete high school,3,19
+108,22,Did not complete high school,4,3
+109,22,Some college,1,3
+110,30,High school degree,12,9
+111,38,Some college,13,18
+112,22,High school degree,0,1
+113,30,Did not complete high school,1,10
+114,30,High school degree,10,4
+115,46,Did not complete high school,1,12
+116,46,Did not complete high school,16,18
+117,38,Some college,3,18
+118,38,Did not complete high school,5,5
+119,38,Some college,4,6
+120,38,Did not complete high school,6,0
+121,30,College degree,2,8
+122,30,Did not complete high school,11,1
+123,54,Did not complete high school,9,2
+124,22,Did not complete high school,4,2
+125,30,Did not complete high school,1,8
+126,30,Did not complete high school,4,0
+127,46,Did not complete high school,14,25
+128,22,High school degree,0,3
+129,46,Some college,9,10
+130,38,High school degree,8,16
+131,30,Did not complete high school,11,9
+132,30,High school degree,4,4
+133,30,Did not complete high school,10,11
+134,54,Some college,21,20
+135,46,High school degree,22,17
+136,38,Did not complete high school,5,13
+137,38,Did not complete high school,18,19
+138,22,Did not complete high school,4,1
+139,30,Did not complete high school,0,11
+140,38,High school degree,2,16
+141,38,Did not complete high school,0,8
+142,54,Did not complete high school,25,12
+143,30,Did not complete high school,8,6
+144,38,Some college,15,18
+145,38,Some college,12,18
+146,46,High school degree,9,26
+147,54,Did not complete high school,18,34
+148,38,Did not complete high school,6,17
+149,22,Some college,0,0
+150,30,College degree,7,10
+151,46,Some college,4,17
+152,38,High school degree,7,4
+153,46,Did not complete high school,9,23
+154,38,Did not complete high school,18,7
+155,38,Did not complete high school,4,9
+156,30,Did not complete high school,12,10
+157,38,Did not complete high school,11,13
+158,30,Did not complete high school,7,2
+159,30,Did not complete high school,4,2
+160,22,Some college,0,2
+161,46,Did not complete high school,7,6
+162,38,Did not complete high school,5,4
+163,30,Did not complete high school,1,1
+164,46,Did not complete high school,9,6
+165,46,High school degree,18,18
+166,30,Did not complete high school,0,2
+167,30,Did not complete high school,4,2
+168,22,College degree,0,1
+169,30,Did not complete high school,8,11
+170,33,Did not complete high school,16,12
+171,49,High school degree,14,26
+172,33,College degree,4,12
+173,25,Some college,3,2
+174,33,Did not complete high school,11,6
+175,33,High school degree,5,2
+176,25,High school degree,5,5
+177,41,High school degree,6,7
+178,25,High school degree,5,3
+179,33,High school degree,10,2
+180,25,Did not complete high school,3,5
+181,33,High school degree,8,13
+182,41,High school degree,13,1
+183,38,College degree,13,2
+184,30,High school degree,2,2
+185,38,High school degree,12,14
+186,38,Did not complete high school,1,9
+187,30,Did not complete high school,12,4
+188,38,Did not complete high school,21,17
+189,38,High school degree,0,18
+190,22,High school degree,0,0
+191,38,Did not complete high school,16,8
+192,46,Did not complete high school,6,19
+193,46,College degree,7,16
+194,28,College degree,0,5
+195,36,High school degree,7,16
+196,28,Some college,6,8
+197,28,Did not complete high school,4,2
+198,44,High school degree,18,4
+199,36,Post-undergraduate degree,5,12
+200,36,Did not complete high school,18,9
+201,28,Did not complete high school,12,7
+202,52,Post-undergraduate degree,9,0
+203,28,High school degree,5,2
+204,36,Did not complete high school,14,17
+205,36,College degree,8,0
+206,20,Some college,0,1
+207,28,High school degree,6,9
+208,28,Did not complete high school,4,1
+209,44,Did not complete high school,12,3
+210,52,High school degree,12,16
+211,44,Did not complete high school,9,20
+212,28,Did not complete high school,0,2
+213,44,High school degree,12,5
+214,28,Some college,2,5
+215,52,Did not complete high school,19,25
+216,28,High school degree,1,4
+217,28,Did not complete high school,4,7
+218,52,College degree,13,17
+219,28,Did not complete high school,2,2
+220,36,Did not complete high school,0,13
+221,52,Did not complete high school,24,14
+222,36,High school degree,9,6
+223,36,High school degree,13,6
+224,28,Did not complete high school,3,6
+225,28,High school degree,1,8
+226,28,High school degree,2,3
+227,28,High school degree,8,3
+228,28,High school degree,5,9
+229,36,Did not complete high school,15,10
+230,36,Did not complete high school,17,6
+231,36,Did not complete high school,6,9
+232,28,Did not complete high school,4,7
+233,36,High school degree,12,13
+234,52,Did not complete high school,16,25
+235,28,Did not complete high school,5,9
+236,28,College degree,1,3
+237,36,Did not complete high school,4,10
+238,28,Did not complete high school,8,6
+239,36,Some college,13,3
+240,28,Some college,5,9
+241,28,High school degree,7,2
+242,28,College degree,0,7
+243,36,Did not complete high school,1,4
+244,36,Did not complete high school,10,0
+245,28,Did not complete high school,3,7
+246,44,Some college,8,10
+247,36,High school degree,0,17
+248,36,Did not complete high school,14,11
+249,44,Did not complete high school,5,3
+250,28,Did not complete high school,11,6
+251,52,Did not complete high school,9,11
+252,28,Did not complete high school,2,9
+253,28,High school degree,6,7
+254,36,Some college,11,12
+255,36,Did not complete high school,4,15
+256,28,College degree,2,4
+257,36,High school degree,11,8
+258,28,Did not complete high school,9,0
+259,28,High school degree,3,1
+260,36,Did not complete high school,9,1
+261,28,Did not complete high school,2,0
+262,28,High school degree,3,4
+263,36,Did not complete high school,7,2
+264,44,High school degree,17,0
+265,36,Did not complete high school,20,15
+266,28,High school degree,0,3
+267,28,High school degree,0,7
+268,36,Did not complete high school,7,17
+269,28,High school degree,5,6
+270,28,Some college,2,0
+271,36,Did not complete high school,11,2
+272,44,Did not complete high school,24,10
+273,44,High school degree,21,14
+274,36,Some college,10,4
+275,20,Did not complete high school,4,0
+276,36,College degree,1,17
+277,36,High school degree,6,15
+278,39,High school degree,16,9
+279,39,Did not complete high school,20,12
+280,39,High school degree,15,19
+281,39,Did not complete high school,2,15
+282,39,High school degree,18,9
+283,39,High school degree,20,17
+284,31,Did not complete high school,15,2
+285,39,High school degree,2,12
+286,31,Did not complete high school,7,10
+287,47,Some college,9,1
+288,23,Did not complete high school,2,2
+289,23,High school degree,0,4
+290,31,Did not complete high school,13,12
+291,39,Did not complete high school,10,4
+292,31,Did not complete high school,1,1
+293,47,Did not complete high school,19,7
+294,23,College degree,0,4
+295,23,Did not complete high school,2,1
+296,39,High school degree,9,16
+297,39,High school degree,16,12
+298,39,Did not complete high school,23,1
+299,31,Did not complete high school,2,2
+300,39,Some college,11,17
+301,39,Did not complete high school,0,8
+302,39,Did not complete high school,8,0
+303,31,Some college,9,2
+304,31,High school degree,9,1
+305,47,Some college,16,26
+306,47,High school degree,4,9
+307,23,High school degree,1,3
+308,31,Did not complete high school,6,9
+309,39,Did not complete high school,22,9
+310,31,Did not complete high school,6,12
+311,31,High school degree,9,8
+312,47,High school degree,17,23
+313,31,Did not complete high school,8,1
+314,39,Did not complete high school,20,9
+315,39,Did not complete high school,6,9
+316,39,Did not complete high school,22,3
+317,47,Did not complete high school,17,21
+318,23,Did not complete high school,7,2
+319,39,Did not complete high school,19,5
+320,47,Did not complete high school,4,2
+321,23,High school degree,0,2
+322,39,High school degree,16,13
+323,31,Did not complete high school,9,10
+324,39,Did not complete high school,19,8
+325,47,Did not complete high school,26,21
+326,47,Did not complete high school,13,25
+327,31,Did not complete high school,11,12
+328,23,High school degree,0,1
+329,39,Did not complete high school,22,9
+330,31,High school degree,0,4
+331,23,Did not complete high school,3,0
+332,31,Did not complete high school,2,4
+333,39,High school degree,7,2
+334,39,Did not complete high school,17,20
+335,31,Did not complete high school,11,8
+336,31,Did not complete high school,8,4
+337,31,Did not complete high school,9,5
+338,31,High school degree,2,1
+339,39,Did not complete high school,4,9
+340,31,Did not complete high school,4,10
+341,39,Did not complete high school,12,10
+342,39,Did not complete high school,13,9
+343,55,Did not complete high school,19,2
+344,31,Did not complete high school,1,6
+345,31,High school degree,6,6
+346,23,Did not complete high school,5,2
+347,23,Did not complete high school,7,3
+348,55,Did not complete high school,3,11
+349,39,Did not complete high school,6,19
+350,31,Did not complete high school,12,4
+351,39,Did not complete high school,15,16
+352,31,Did not complete high school,5,3
+353,47,Did not complete high school,15,1
+354,39,Did not complete high school,9,6
+355,31,Some college,9,7
+356,39,Did not complete high school,19,16
+357,39,Did not complete high school,13,1
+358,31,Did not complete high school,11,6
+359,31,Did not complete high school,8,3
+360,23,High school degree,3,4
+361,36,Did not complete high school,16,13
+362,44,Did not complete high school,2,15
+363,52,Did not complete high school,33,23
+364,44,Did not complete high school,19,9
+365,44,College degree,18,23
+366,36,Did not complete high school,4,17
+367,44,Did not complete high school,18,0
+368,44,High school degree,8,18
+369,52,Did not complete high school,17,4
+370,44,Some college,7,16
+371,28,Did not complete high school,10,1
+372,36,Did not complete high school,19,8
+373,36,Did not complete high school,5,2
+374,31,Did not complete high school,10,12
+375,47,Did not complete high school,29,18
+376,47,Did not complete high school,22,19
+377,39,Did not complete high school,16,20
+378,39,Did not complete high school,19,15
+379,31,College degree,1,6
+380,39,Did not complete high school,16,4
+381,23,College degree,0,2
+382,39,Did not complete high school,4,15
+383,39,High school degree,9,12
+384,47,Some college,23,11
+385,23,Did not complete high school,1,0
+386,31,Did not complete high school,7,2
+387,47,Did not complete high school,27,8
+388,23,High school degree,3,3
+389,31,Did not complete high school,11,12
+390,47,Did not complete high school,31,9
+391,23,Did not complete high school,1,0
+392,31,Did not complete high school,7,11
+393,31,High school degree,6,5
+394,23,High school degree,0,1
+395,31,Did not complete high school,11,6
+396,31,Did not complete high school,12,9
+397,31,Some college,6,8
+398,23,High school degree,3,4
+399,47,Did not complete high school,31,8
+400,31,Did not complete high school,5,7
+401,31,College degree,7,12
+402,47,High school degree,27,7
+403,39,Did not complete high school,19,16
+404,31,Did not complete high school,8,4
+405,47,High school degree,7,24
+406,39,High school degree,18,18
+407,47,Did not complete high school,29,20
+408,23,High school degree,2,2
+409,31,Did not complete high school,6,1
+410,23,Did not complete high school,6,2
+411,47,Did not complete high school,3,1
+412,47,Some college,16,7
+413,31,Did not complete high school,3,5
+414,39,Some college,16,10
+415,47,Did not complete high school,16,19
+416,31,High school degree,12,8
+417,39,Did not complete high school,20,8
+418,23,Did not complete high school,3,4
+419,29,High school degree,3,8
+420,37,High school degree,6,13
+421,21,Some college,0,1
+422,29,Did not complete high school,13,7
+423,29,Did not complete high school,6,7
+424,37,Did not complete high school,0,18
+425,29,Did not complete high school,1,4
+426,37,Did not complete high school,3,3
+427,53,College degree,5,29
+428,29,Did not complete high school,12,2
+429,45,High school degree,21,26
+430,45,Did not complete high school,22,24
+431,29,High school degree,1,7
+432,29,High school degree,0,8
+433,37,College degree,1,14
+434,37,Post-undergraduate degree,9,16
+435,21,High school degree,0,2
+436,29,High school degree,6,10
+437,21,High school degree,2,0
+438,29,Did not complete high school,7,5
+439,45,Some college,5,17
+440,29,High school degree,6,9
+441,45,Some college,0,19
+442,29,High school degree,9,0
+443,37,Did not complete high school,6,10
+444,29,Did not complete high school,9,8
+445,37,College degree,10,18
+446,37,High school degree,4,11
+447,37,Did not complete high school,6,9
+448,29,Did not complete high school,8,6
+449,21,High school degree,1,2
+450,45,High school degree,9,26
+451,45,Did not complete high school,3,15
+452,45,Did not complete high school,23,5
+453,21,High school degree,0,1
+454,37,Did not complete high school,1,3
+455,29,Did not complete high school,13,1
+456,37,Did not complete high school,4,0
+457,29,Did not complete high school,1,2
+458,29,Did not complete high school,1,9
+459,37,Did not complete high school,7,3
+460,29,High school degree,5,4
+461,37,Some college,5,17
+462,29,High school degree,4,9
+463,53,Did not complete high school,9,18
+464,45,Some college,2,5
+465,21,Some college,0,2
+466,45,Did not complete high school,12,19
+467,29,High school degree,9,3
+468,21,Did not complete high school,5,1
+469,45,High school degree,18,19
+470,29,High school degree,6,7
+471,29,Did not complete high school,8,10
+472,29,High school degree,4,3
+473,45,High school degree,15,14
+474,21,Did not complete high school,4,0
+475,29,Did not complete high school,7,9
+476,21,Did not complete high school,1,1
+477,37,Did not complete high school,13,5
+478,45,Some college,16,21
+479,29,Some college,7,1
+480,29,Some college,1,10
+481,29,Some college,5,6
+482,29,High school degree,10,8
+483,37,High school degree,11,4
+484,29,High school degree,1,7
+485,29,Did not complete high school,9,0
+486,29,Did not complete high school,11,7
+487,29,Did not complete high school,11,5
+488,45,Did not complete high school,10,14
+489,29,Did not complete high school,3,1
+490,37,Did not complete high school,20,2
+491,37,Did not complete high school,18,8
+492,29,Did not complete high school,2,0
+493,29,Did not complete high school,1,8
+494,29,Did not complete high school,1,1
+495,29,Some college,3,3
+496,29,Some college,7,2
+497,37,Some college,16,14
+498,29,Did not complete high school,9,2
+499,45,Did not complete high school,17,0
+500,37,Did not complete high school,9,8
+501,29,High school degree,3,6
+502,29,Did not complete high school,1,3
+503,29,High school degree,6,7
+504,45,High school degree,2,19
+505,29,Did not complete high school,6,4
+506,53,College degree,7,11
+507,37,Some college,12,8
+508,53,High school degree,16,31
+509,29,High school degree,5,7
+510,53,Did not complete high school,6,7
+511,37,High school degree,0,13
+512,21,Did not complete high school,1,1
+513,53,Did not complete high school,0,26
+514,29,High school degree,6,4
+515,45,Did not complete high school,19,22
+516,37,Did not complete high school,12,14
+517,29,Did not complete high school,4,0
+518,45,Did not complete high school,8,25
+519,37,High school degree,15,11
+520,37,Did not complete high school,5,11
+521,37,Did not complete high school,18,9
+522,37,College degree,2,1
+523,53,Did not complete high school,33,25
+524,45,Some college,9,0
+525,29,High school degree,3,9
+526,21,High school degree,1,0
+527,21,Some college,0,1
+528,37,Did not complete high school,19,7
+529,37,High school degree,11,11
+530,29,High school degree,9,8
+531,37,Some college,16,8
+532,45,Did not complete high school,14,26
+533,29,High school degree,2,4
+534,29,High school degree,10,3
+535,45,Did not complete high school,7,17
+536,29,Did not complete high school,3,10
+537,45,Some college,8,1
+538,29,High school degree,0,7
+539,37,Did not complete high school,4,10
+540,37,Did not complete high school,20,13
+541,34,Did not complete high school,13,11
+542,34,College degree,7,15
+543,26,Did not complete high school,1,0
+544,26,Did not complete high school,10,6
+545,26,Did not complete high school,7,3
+546,34,Did not complete high school,13,8
+547,34,Did not complete high school,14,8
+548,26,High school degree,0,7
+549,34,Did not complete high school,18,10
+550,50,High school degree,16,14
+551,42,Some college,0,9
+552,34,Did not complete high school,12,5
+553,50,Did not complete high school,11,5
+554,42,Did not complete high school,7,12
+555,50,Did not complete high school,1,26
+556,34,Did not complete high school,5,3
+557,34,High school degree,4,10
+558,50,High school degree,15,31
+559,42,Post-undergraduate degree,6,23
+560,34,Some college,13,7
+561,42,High school degree,14,1
+562,42,Did not complete high school,3,10
+563,42,Did not complete high school,2,16
+564,34,Did not complete high school,15,0
+565,34,High school degree,9,7
+566,42,High school degree,18,23
+567,34,Did not complete high school,16,9
+568,26,Did not complete high school,10,2
+569,34,Some college,7,0
+570,26,Some college,2,1
+571,26,High school degree,6,7
+572,34,Did not complete high school,17,3
+573,42,High school degree,7,23
+574,26,Did not complete high school,0,0
+575,34,Did not complete high school,2,11
+576,50,Some college,10,20
+577,26,High school degree,5,7
+578,34,High school degree,3,8
+579,26,Did not complete high school,4,3
+580,26,Did not complete high school,4,3
+581,42,Some college,13,0
+582,42,High school degree,21,11
+583,34,High school degree,9,13
+584,42,Did not complete high school,12,11
+585,34,High school degree,9,9
+586,34,College degree,6,3
+587,26,College degree,1,7
+588,42,High school degree,5,3
+589,34,Did not complete high school,16,9
+590,26,Did not complete high school,6,0
+591,50,Did not complete high school,8,27
+592,26,High school degree,6,6
+593,26,High school degree,6,0
+594,34,Did not complete high school,16,3
+595,34,Some college,12,8
+596,26,High school degree,4,3
+597,34,Some college,2,14
+598,34,High school degree,10,2
+599,34,High school degree,8,6
+600,34,Did not complete high school,0,1
+601,26,High school degree,2,6
+602,34,Did not complete high school,15,2
+603,34,Did not complete high school,0,10
+604,26,Did not complete high school,10,1
+605,42,Did not complete high school,6,9
+606,26,Did not complete high school,0,0
+607,26,Did not complete high school,8,4
+608,42,High school degree,11,5
+609,26,Did not complete high school,3,5
+610,34,Did not complete high school,3,14
+611,42,College degree,15,8
+612,26,Did not complete high school,2,6
+613,50,Some college,18,27
+614,50,Did not complete high school,4,4
+615,42,High school degree,12,9
+616,34,Did not complete high school,6,1
+617,26,High school degree,8,1
+618,34,Did not complete high school,9,8
+619,34,Did not complete high school,18,10
+620,34,Did not complete high school,10,1
+621,50,Did not complete high school,6,27
+622,34,Did not complete high school,4,3
+623,50,Did not complete high school,30,8
+624,50,Some college,25,7
+625,26,College degree,1,5
+626,34,High school degree,9,3
+627,26,Did not complete high school,0,5
+628,26,Some college,3,1
+629,34,Did not complete high school,10,12
+630,26,Did not complete high school,5,6
+631,34,Did not complete high school,4,6
+632,26,College degree,1,6
+633,26,Did not complete high school,0,2
+634,26,Did not complete high school,2,5
+635,34,Did not complete high school,12,15
+636,32,Did not complete high school,11,2
+637,40,Some college,5,3
+638,24,High school degree,3,0
+639,32,Did not complete high school,10,13
+640,40,High school degree,2,1
+641,24,High school degree,0,2
+642,32,Some college,9,10
+643,32,High school degree,3,13
+644,48,Did not complete high school,13,20
+645,48,Did not complete high school,3,11
+646,40,Did not complete high school,22,4
+647,24,Some college,2,5
+648,32,High school degree,11,4
+649,48,Did not complete high school,3,7
+650,40,Did not complete high school,9,4
+651,24,High school degree,1,2
+652,40,Some college,18,14
+653,32,High school degree,8,2
+654,40,Did not complete high school,22,1
+655,32,Did not complete high school,10,11
+656,24,Did not complete high school,3,3
+657,56,Did not complete high school,11,20
+658,32,Some college,5,9
+659,48,Did not complete high school,0,23
+660,24,College degree,0,3
+661,24,High school degree,2,3
+662,24,High school degree,3,1
+663,48,Did not complete high school,17,22
+664,24,Did not complete high school,2,5
+665,32,High school degree,5,5
+666,24,Did not complete high school,3,0
+667,32,Did not complete high school,4,3
+668,32,Did not complete high school,0,4
+669,32,High school degree,12,3
+670,40,Did not complete high school,21,21
+671,40,Did not complete high school,15,14
+672,24,High school degree,2,0
+673,24,Did not complete high school,3,4
+674,48,Did not complete high school,22,15
+675,32,High school degree,12,1
+676,40,High school degree,3,2
+677,40,Some college,18,6
+678,32,High school degree,11,6
+679,24,Did not complete high school,2,1
+680,40,Did not complete high school,10,15
+681,32,Did not complete high school,12,12
+682,32,Did not complete high school,3,10
+683,32,High school degree,0,6
+684,40,Did not complete high school,8,17
+685,40,High school degree,15,16
+686,24,Did not complete high school,7,2
+687,40,Did not complete high school,13,2
+688,24,Did not complete high school,0,2
+689,32,Did not complete high school,8,6
+690,40,High school degree,13,11
+691,32,Did not complete high school,1,0
+692,32,Did not complete high school,14,7
+693,40,High school degree,8,19
+694,40,Did not complete high school,14,21
+695,24,Did not complete high school,1,0
+696,48,College degree,3,23
+697,40,Some college,17,11
+698,40,Some college,16,6
+699,48,Some college,0,27
+700,48,Some college,17,26
+701,40,College degree,5,6
+702,24,Did not complete high school,7,0
+703,32,High school degree,2,11
+704,32,High school degree,7,10
+705,32,Did not complete high school,16,10
+706,32,Did not complete high school,14,0
+707,24,Did not complete high school,4,2
+708,24,Did not complete high school,6,2
+709,24,Did not complete high school,8,4
+710,40,High school degree,5,12
+711,40,Did not complete high school,12,6
+712,40,Did not complete high school,2,4
+713,48,College degree,14,10
+714,24,Did not complete high school,3,5
+715,24,Did not complete high school,8,0
+716,32,High school degree,5,0
+717,40,Some college,3,15
+718,48,High school degree,30,14
+719,40,Did not complete high school,3,13
+720,48,Did not complete high school,28,25
+721,48,Did not complete high school,15,5
+722,40,Did not complete high school,2,3
+723,24,High school degree,4,4
+724,48,Did not complete high school,30,8
+725,40,Did not complete high school,6,9
+726,24,High school degree,0,5
+727,48,High school degree,6,1
+728,40,Did not complete high school,9,9
+729,32,Did not complete high school,12,10
+730,24,Did not complete high school,4,0
+731,24,Did not complete high school,4,1
+732,40,Did not complete high school,17,5
+733,40,Some college,5,18
+734,48,High school degree,21,14
+735,32,Some college,6,12
+736,48,High school degree,9,22
+737,56,Did not complete high school,19,26
+738,32,Did not complete high school,7,10
+739,24,Did not complete high school,1,4
+740,40,Did not complete high school,23,16
+741,24,Did not complete high school,1,5
+742,48,Did not complete high school,10,0
+743,24,Did not complete high school,1,0
+744,24,Did not complete high school,5,1
+745,32,Did not complete high school,13,11
+746,40,High school degree,15,19
+747,32,High school degree,12,11
+748,48,Did not complete high school,13,11
+749,35,High school degree,14,3
+750,27,Did not complete high school,7,4
+751,43,Did not complete high school,8,11
+752,35,Did not complete high school,5,5
+753,43,Did not complete high school,4,2
+754,43,High school degree,16,10
+755,43,Did not complete high school,16,7
+756,27,Did not complete high school,0,5
+757,43,College degree,18,14
+758,43,Did not complete high school,25,16
+759,27,High school degree,6,1
+760,51,High school degree,27,21
+761,27,College degree,2,8
+762,35,High school degree,0,16
+763,35,High school degree,3,11
+764,43,Did not complete high school,19,11
+765,35,Some college,7,5
+766,27,High school degree,5,6
+767,43,Did not complete high school,10,9
+768,51,High school degree,31,14
+769,43,High school degree,10,24
+770,27,Did not complete high school,10,6
+771,43,Did not complete high school,12,11
+772,27,Did not complete high school,0,1
+773,43,Did not complete high school,23,19
+774,43,Did not complete high school,25,21
+775,27,Some college,2,7
+776,35,Did not complete high school,13,15
+777,35,Did not complete high school,18,2
+778,35,Did not complete high school,9,1
+779,43,College degree,1,5
+780,35,College degree,4,16
+781,27,High school degree,1,0
+782,27,Did not complete high school,9,6
+783,43,Did not complete high school,13,23
+784,27,High school degree,3,5
+785,35,High school degree,1,8
+786,27,Did not complete high school,10,6
+787,27,Did not complete high school,11,8
+788,27,High school degree,4,3
+789,35,Some college,5,3
+790,27,High school degree,7,8
+791,27,College degree,0,6
+792,43,High school degree,9,5
+793,35,High school degree,5,1
+794,27,Some college,3,4
+795,35,Did not complete high school,15,11
+796,35,High school degree,10,16
+797,35,High school degree,13,3
+798,35,High school degree,1,1
+799,51,Some college,16,25
+800,27,High school degree,8,7
+801,51,High school degree,22,23
+802,27,Some college,6,4
+803,27,High school degree,1,0
+804,35,High school degree,9,16
+805,35,Did not complete high school,16,15
+806,51,High school degree,19,25
+807,43,High school degree,6,24
+808,27,Some college,5,1
+809,27,Some college,4,1
+810,27,Some college,3,4
+811,27,Some college,5,4
+812,27,College degree,0,0
+813,27,High school degree,8,4
+814,51,Did not complete high school,10,1
+815,35,Did not complete high school,10,16
+816,35,Some college,10,15
+817,27,Did not complete high school,6,6
+818,43,Did not complete high school,11,17
+819,35,Did not complete high school,16,10
+820,35,Did not complete high school,15,1
+821,35,Did not complete high school,7,14
+822,27,Did not complete high school,0,7
+823,35,Did not complete high school,0,5
+824,35,Did not complete high school,17,4
+825,35,Did not complete high school,7,5
+826,35,Some college,1,4
+827,27,Did not complete high school,5,5
+828,35,Did not complete high school,10,8
+829,43,Did not complete high school,8,0
+830,35,Did not complete high school,10,3
+831,35,Did not complete high school,11,12
+832,35,Did not complete high school,11,9
+833,43,Did not complete high school,4,11
+834,35,Did not complete high school,13,4
+835,35,Some college,5,13
+836,43,Did not complete high school,15,21
+837,27,Did not complete high school,6,2
+838,35,Did not complete high school,12,3
+839,27,Did not complete high school,5,7
+840,27,Some college,0,4
+841,43,Did not complete high school,24,22
+842,35,High school degree,0,6
+843,35,High school degree,12,12
+844,27,Did not complete high school,11,1
+845,35,Did not complete high school,16,0
+846,43,Did not complete high school,9,8
+847,35,High school degree,11,1
+848,35,College degree,10,12
+849,51,College degree,15,30
+850,35,High school degree,1,11
